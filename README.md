@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/priyanshu-gupta-7b2550203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-gupta-7b2550203" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/priyanshu0120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshu0120" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/priyanshugupta20022003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priyanshugupta20022003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshugupta_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshugupta_2003" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/priyanshugupta_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshugupta_2003" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/priyanshugupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshugupta01" height="30" width="40" /></a>
 </p>
 
